@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Exercise Memberships"
+    url: /exercise-memberships/
+  - title: "Exercise Schedule"
+    url: /exercise-schedule/
+  - title: "Healthy Eating"
+    url: /healthy-eating/
+  - title: "Financial Coaching"
+    url: /financial-coaching/
+  - title: "Contact"
+    url: /contact/
