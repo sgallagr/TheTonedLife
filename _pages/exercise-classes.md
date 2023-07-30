@@ -34,12 +34,21 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 #   \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hUOhCt48zkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <table style="width:100%">
   <tr>
-    <td>Video</td>
-    <td>Pricing&Deets</td>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/hUOhCt48zkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td><p>MWF     7:45-8:45 a.m.
+    Saturdays       9:30-8:30 a.m.
+    W Eve       6:30-7:30 p.m.
+    \n
+    Monthly Memberships
+    4+ classes per week -- $82/month
+    3 classes per week -- $67/month
+    2 classes per week -- $60/month
+    1 class per week -- $33/month
+    Single class without monthly membership -- $15
+    No contracts.
+    Pay at the beginning of the month via Zelle, check or cash</p></td>
   </tr>
 </table>
 
