@@ -8,9 +8,15 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 ---
 
 <table>
+  <colgroup>
+    <col span="1" style="width: 80%;">
+    <col span="1" style="width: 20%;">
+  </colgroup>
+ 
+  <tbody>
   <tr>
     <td>
-      <video class="video" width="85%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
+      <video class="video" width="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
         <source src="/assets/videos/essentrics.mp4" type="video/mp4">
       </video>
     </td>
@@ -24,10 +30,11 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
       <b>2 classes per week</b> -- $60/month<br>
       <b>1 class per week</b> -- $33/month<br>
       <b>Single class without monthly membership</b> -- $15<br><br>
-      <b><u>No contracts.</u></b><br><br>
+      No contracts<br><br>
       Pay at the beginning of the month via Zelle, check or cash<br>
     </td>
   </tr>
+  </tbody>
 </table>
 
 <br>Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
