@@ -37,7 +37,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <table width="100%" style="margin: 0px;">
   <tr>
     <td>
-      <video width="200" height="200" controls>
+      <video width="500" height="500">
         <source src="/assets/videos/essentrics.mp4" type="video/mp4">
       </video>
     </td>
