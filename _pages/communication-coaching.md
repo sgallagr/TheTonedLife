@@ -13,9 +13,6 @@ header:
       <b>For Individuals</b><br>
       <i>“I progressed more in 2 coaching sessions with Cathleen, than I did in 2 decades of counseling with my therapists. Cathleen systematically encouraged me to go farther than I ever could’ve imagined. Her knowledge on how the mind works, psychology, and communication is mind-blowing. Her approach and coaching on active forgiveness, self-talk, mindful communication, making peace with your past, etc have so greatly impacted my entire life in amazing ways. Do yourself a big favor and move forward with Cathleen as your coach instead of sitting still sharing the same old negative stories with your therapist.”</i><br> 
       - Jane G.<br>
-      <b>For Business Professionals</b><br>
-      <i>“Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could.”</i><br> 
-      - Bob K<br>
     </td>
     <td>
       $120 for 60 minute session<br>
@@ -25,6 +22,9 @@ header:
   </tr>
   <tr>
     <td width="75%">
+      <b>For Business Professionals</b><br>
+      <i>“Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could.”</i><br> 
+      - Bob K<br><br>
       CEO’s/VP’s Image Consulting<br>
       Facilitator Training<br>
       Goals Setting<br>
