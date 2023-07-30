@@ -24,7 +24,7 @@ header:
     <td width="75%">
       <b>For Business Professionals</b><br>
       <i>“Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could.”</i><br> 
-      - Bob K<br><br>
+      - Bob K.<br><br>
       CEO’s/VP’s Image Consulting<br>
       Facilitator Training<br>
       Goals Setting<br>
