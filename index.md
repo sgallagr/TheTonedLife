@@ -13,10 +13,10 @@ feature_row2:
     url: "https://youtu.be/hUOhCt48zkU"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-<!-- feature_row3:
-  - image_path: /assets/images/woman+on+beach.jpg
-    title: "Experience the freedom of Finanical Peace with coaching"
-    excerpt: "**Your first 15-minute consultation is FREE**" -->
+# feature_row3:
+#  - image_path: /assets/images/woman+on+beach.jpg
+#    title: "Experience the freedom of Finanical Peace with coaching"
+#    excerpt: "**Your first 15-minute consultation is FREE**" -->
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
