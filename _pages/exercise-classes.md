@@ -34,7 +34,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 #   \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
 ---
 
-<table>
+<table border="1" width="100%" ID="Table2" style="margin: 0px;">
   <tr>
     <td>
       <iframe src="https://www.youtube.com/embed/hUOhCt48zkU"></iframe>
