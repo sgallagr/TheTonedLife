@@ -10,31 +10,22 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <table>
   <tr>
     <td>
-      <video class="video" width="100%" height="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
+      <video class="video" width="75%" height="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
         <source src="/assets/videos/essentrics.mp4" type="video/mp4">
       </video>
     </td>
     <td>
-      <table>
-        <tr>
-          MWF 7:45-8:45 a.m.<br>
-          Saturdays 9:30-8:30 a.m.<br>
-          W Eve 6:30-7:30 p.m.<br>
-        </tr>
-        <tr>
-          <br>MWF 7:45-8:45 a.m.<br>
-          Saturdays 9:30-8:30 a.m.<br>
-          W Eve 6:30-7:30 p.m.<br><br>
-          Monthly Memberships<br>
-          4+ classes per week -- $82/month<br>
-          3 classes per week -- $67/month<br>
-          2 classes per week -- $60/month<br>
-          1 class per week -- $33/month<br>
-          Single class without monthly membership -- $15<br>
-          No contracts.<br>
-          Pay at the beginning of the month via Zelle, check or cash<br>
-        </tr>
-      </table>
+      <p>MWF 7:45-8:45 a.m.<br>
+      Saturdays 9:30-8:30 a.m.<br>
+      W Eve 6:30-7:30 p.m.<br><br>
+      Monthly Memberships<br>
+      4+ classes per week -- $82/month<br>
+      3 classes per week -- $67/month<br>
+      2 classes per week -- $60/month<br>
+      1 class per week -- $33/month<br>
+      Single class without monthly membership -- $15<br>
+      No contracts.<br>
+      Pay at the beginning of the month via Zelle, check or cash<br></p>
     </td>
   </tr>
 </table>
