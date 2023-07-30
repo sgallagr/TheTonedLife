@@ -5,10 +5,19 @@ permalink: /exercise-classes/
 header:
   overlay_color: "#0494cc"
 excerpt: "Choose a membership that best fits your goals. The first class is **always** free"
- feature_row3:
-  - image_path: /assets/videos/essentrcis.mp4
-    title: "Tone+ Family Package (up to 6 classes/wk)"
-    excerpt: "**$115.00 every month**"
+# feature_row:
+#  - image_path: /assets/images/family_package.jpg
+#    title: "Tone+ Family Package (up to 6 classes/wk)"
+#    excerpt: "**$115.00 every month**"
+#  - image_path: /assets/images/tone+.jpg
+#    title: "Tone+ (up to 6 classes/wk)"
+#    excerpt: "**$65.00 every month**"
+#  - image_path: /assets/images/tone.jpg
+#    title: "Tone (up to 3 classes/wk)"
+#    excerpt: "**$60.00 every month**"
+#  - image_path: /assets/images/single.jpg
+#    title: "Single Class"
+#    excerpt: "**$15.00**"
 #feature_row2:
 #   excerpt: "Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend #  in-studio or online 3-5 times a week and watch your body transform in just a few classes!
 #  \n\nThrough Essentrics and Aging Backwards (can you put the little R or C in the circle next to these  #  names?),  you can attain the shapes, strength and balance of ballet dancers by incorporating simple
@@ -25,10 +34,10 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 #   \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
 ---
 
-<table width="100%" style="margin: 0px;">
+<table>
   <tr>
     <td>
-      <video width="600" height="600">
+      <video width="700" height="400">
         <source src="/assets/videos/essentrics.mp4" type="video/mp4">
       </video>
     </td>
@@ -58,6 +67,6 @@ No equipment, no jumping, no sit-ups, no push-ups, no pain. Class is done in bar
 
 Level 2 Comprehensive Certification in Aging Backwards® and Essentrics®
 
-{% include feature_row id="feature_row3" type="center" %}
+<!-- {% include feature_row id="feature_row2" type="center" %} -->
 
 <!-- {% include feature_row %} -->
