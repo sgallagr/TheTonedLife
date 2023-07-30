@@ -1,7 +1,7 @@
 ---
-title: "Exercise Classes"
+title: "Infrared Sauna"
 layout: splash
-permalink: /exercise-classes/
+permalink: /infrared-sauna/
 header:
   overlay_color: "#0494cc"
 excerpt: "Choose a membership that best fits your goals. The first class is **always** free"
@@ -26,6 +26,6 @@ feature_row:
    \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
 ---
 
-{% include feature_row id="feature_row" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 <!-- {% include feature_row %} -->
