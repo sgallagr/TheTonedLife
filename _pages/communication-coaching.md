@@ -4,28 +4,36 @@ layout: splash
 permalink: /communication-coaching/
 header:
   overlay_color: "#0494cc"
-excerpt: "Choose a membership that best fits your goals. The first class is **always** free"
-# feature_row:
-#  - image_path: /assets/images/family_package.jpg
-#    title: "Tone+ Family Package (up to 6 classes/wk)"
-#    excerpt: "**$115.00 every month**"
-#  - image_path: /assets/images/tone+.jpg
-#    title: "Tone+ (up to 6 classes/wk)"
-#    excerpt: "**$65.00 every month**"
-#  - image_path: /assets/images/tone.jpg
-#    title: "Tone (up to 3 classes/wk)"
-#    excerpt: "**$60.00 every month**"
-#  - image_path: /assets/images/single.jpg
-#    title: "Single Class"
-#    excerpt: "**$15.00**"
-feature_row:
-   excerpt: "Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
-   \n\nThrough Essentrics and Aging Backwards (can you put the little R or C in the circle next to these names?),  you can attain the shapes, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moces and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
-   \n\nEssentrics and Aging Backwards are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19-90+, from coach potato to top athletes and everyone in between can benefit greatly from Essentrics and Aging Backwards.
-   \n\nNo equipment, no jumping, no sit-ups, no push-ups, no pain. Class is done in bare-feet. Mats are provided for floor work. Purified water is provided. Studio is located on the second floor. Must be able to go up and down stairs. Ballet barre is provided for any who need a bit of extra balance support when first beginning.
-   \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
+#excerpt: ""
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
-
-<!-- {% include feature_row %} -->
+<table>
+  <tr>
+    <td>
+      <b>For Individuals</b><br>
+      <i>“I progressed more in 2 coaching sessions with Cathleen, than I did in 2 decades of counseling with my therapists. Cathleen systematically encouraged me to go farther than I ever could’ve imagined. Her knowledge on how the mind works, psychology, and communication is mind-blowing. Her approach and coaching on active forgiveness, self-talk, mindful communication, making peace with your past, etc have so greatly impacted my entire life in amazing ways. Do yourself a big favor and move forward with Cathleen as your coach instead of sitting still sharing the same old negative stories with your therapist.”</i> Jane G.<br><br>
+      <b>For Business Professionals</b><br>
+      <i>“Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could.”</i> Bob K<br><br>
+    </td>
+    <td>
+      $120 for 60 minute session<br>
+      $195 for 90 minute session<br>
+      Ask about discounts for packages of 5 or more sessions<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      CEO’s/VP’s Image Consulting<br>
+      Facilitator Training<br>
+      Goals Setting<br>
+      Pastors’ Sermons Coaching<br>
+      Public Speaker Coaching<br>
+      Vision Boards Workshops<br>
+      All Forms of Writing/Editing<br>
+    </td>
+    <td>
+      $240 per hour<br>
+      Call for corporate packages or individual discounts<br>
+    </td>
+  </tr>
+</table>
