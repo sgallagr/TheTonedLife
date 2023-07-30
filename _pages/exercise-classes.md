@@ -37,7 +37,9 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <table width="100%" style="margin: 0px;">
   <tr>
     <td>
-      <iframe src="https://www.youtube.com/embed/hUOhCt48zkU" height="400" width="400"></iframe>
+      <video width="200" height="200" controls>
+        <source src="/assets/videos/essentrics.mp4" type="video/mp4">
+      </video>
     </td>
     <td>
       <p>MWF 7:45-8:45 a.m.<br>
