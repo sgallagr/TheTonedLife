@@ -36,18 +36,12 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUOhCt48zkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="left">
-    <p>I have updated this example to show a great way of getting a two column layout.</p>
-</div>
-<div class="right">
-    <ul>
-        <li>The columns are in the right order semantically</li>
-        <li>You don't have to float both columns</li>
-        <li>You don't get any odd wrapping behaviour</li>
-        <li>The columns are fluid to the available page...</li>
-        <li>They don't have to be fluid to the available page - but any container!</li>
-    </ul>
-</div>
+<table style="width:100%">
+  <tr>
+    <td>Video</td>
+    <td>Pricing&Deets</td>
+  </tr>
+</table>
 
 Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
 
