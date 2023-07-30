@@ -36,15 +36,28 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUOhCt48zkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div class="left">
+    <p>I have updated this example to show a great way of getting a two column layout.</p>
+</div>
+<div class="right">
+    <ul>
+        <li>The columns are in the right order semantically</li>
+        <li>You don't have to float both columns</li>
+        <li>You don't get any odd wrapping behaviour</li>
+        <li>The columns are fluid to the available page...</li>
+        <li>They don't have to be fluid to the available page - but any container!</li>
+    </ul>
+</div>
+
 Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
 
-Through Essentrics© and Aging Backwards©, you can attain the shapes, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moces and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
+Through Essentrics® and Aging Backwards®, you can attain the shapes, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moces and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
 
-Essentrics© and Aging Backwards© are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19-90+, from coach potato to top athletes and everyone in between can benefit greatly from Essentrics© and Aging Backwards©.
+Essentrics® and Aging Backwards® are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19-90+, from coach potato to top athletes and everyone in between can benefit greatly from Essentrics® and Aging Backwards®.
 
 No equipment, no jumping, no sit-ups, no push-ups, no pain. Class is done in bare-feet. Mats are provided for floor work. Purified water is provided. Studio is located on the second floor. Must be able to go up and down stairs. Ballet barre is provided for any who need a bit of extra balance support when first beginning.
 
-Level 2 Comprehensive Certification in Aging Backwards© and Essentrics©
+Level 2 Comprehensive Certification in Aging Backwards® and Essentrics®
 
 <!-- {% include feature_row id="feature_row2" type="center" %} -->
 
