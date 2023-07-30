@@ -18,7 +18,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 #  - image_path: /assets/images/single.jpg
 #    title: "Single Class"
 #    excerpt: "**$15.00**"
-feature_row:
+feature_row2:
    excerpt: "Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
    \n\nThrough Essentrics and Aging Backwards (can you put the little R or C in the circle next to these names?),  you can attain the shapes, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moces and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
    \n\nEssentrics and Aging Backwards are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19-90+, from coach potato to top athletes and everyone in between can benefit greatly from Essentrics and Aging Backwards.
@@ -26,6 +26,6 @@ feature_row:
    \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
 ---
 
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row id="feature_row2" type="center" %}
 
 <!-- {% include feature_row %} -->
