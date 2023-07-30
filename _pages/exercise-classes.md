@@ -37,7 +37,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <table width="100%" style="margin: 0px;">
   <tr>
     <td>
-      <video width="500" height="500">
+      <video width="600" height="600">
         <source src="/assets/videos/essentrics.mp4" type="video/mp4">
       </video>
     </td>
@@ -57,7 +57,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
   </tr>
 </table>
 
-Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
+<br>Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
 
 Through Essentrics® and Aging Backwards®, you can attain the shapes, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moces and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
 
