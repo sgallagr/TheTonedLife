@@ -4,28 +4,21 @@ layout: splash
 permalink: /vision-improvement/
 header:
   overlay_color: "#0494cc"
-excerpt: "Choose a membership that best fits your goals. The first class is **always** free"
-# feature_row:
-#  - image_path: /assets/images/family_package.jpg
-#    title: "Tone+ Family Package (up to 6 classes/wk)"
-#    excerpt: "**$115.00 every month**"
-#  - image_path: /assets/images/tone+.jpg
-#    title: "Tone+ (up to 6 classes/wk)"
-#    excerpt: "**$65.00 every month**"
-#  - image_path: /assets/images/tone.jpg
-#    title: "Tone (up to 3 classes/wk)"
-#    excerpt: "**$60.00 every month**"
-#  - image_path: /assets/images/single.jpg
-#    title: "Single Class"
-#    excerpt: "**$15.00**"
-feature_row:
-   excerpt: "Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
-   \n\nThrough Essentrics and Aging Backwards (can you put the little R or C in the circle next to these names?),  you can attain the shapes, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moces and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
-   \n\nEssentrics and Aging Backwards are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19-90+, from coach potato to top athletes and everyone in between can benefit greatly from Essentrics and Aging Backwards.
-   \n\nNo equipment, no jumping, no sit-ups, no push-ups, no pain. Class is done in bare-feet. Mats are provided for floor work. Purified water is provided. Studio is located on the second floor. Must be able to go up and down stairs. Ballet barre is provided for any who need a bit of extra balance support when first beginning.
-   \n\nLevel 2 Comprehensive Certification in Aging Backwards and Essentrics"
+#excerpt: ""
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
+Natural Vision Coaching for Your Eyes
 
-<!-- {% include feature_row %} -->
+Are you ready to ditch your glasses or contacts? Have you always wished you could see clearly and far away without glasses or contacts? As you age, would you like to read your favorite books, your phone, your car dashboard without “readers” or bifocals? Cathleen can show you how to get there.
+
+Come experience relaxation for your eyes, as well as your mind and even your entire body. As a Bates Method Certified Natural Vision Coach, I teach individuals to experience naturally improved eyesight in a fun and personable way.
+
+<i>“Cathleen is a master at guided visualizations – somehow she takes me on the most amazingly scenic vacations while my eyes are closed and resting during ‘palming’, and she’s kind enough to record these on my phone so I can listen to them everyday. I get a vacation for my mind and relaxation for my eyes and body. And when I open my eyes, it’s simply amazing how much better my vision is. This is the most fun and relaxing way to improve my eyesight! And she is such a sweet and helpful soul. She’s like a best friend who helps me see better”</i> 
+- JoAnn C.
+
+In-person and Online sessions available 
+
+$150 first session
+$100 each follow-up session
+
+Sessions typically last 60-90 minutes
