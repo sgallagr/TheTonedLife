@@ -10,9 +10,8 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <table>
   <tr>
     <td>
-      <video width="100%" height="100%" controls>
+      <video class="video" width="100%" height="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
         <source src="/assets/videos/essentrics.mp4" type="video/mp4">
-        <img src="/assets/images/family_package.png">
       </video>
     </td>
     <td>
