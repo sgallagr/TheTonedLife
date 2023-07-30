@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Exercise Memberships"
-    url: /exercise-memberships/
-  - title: "Exercise Schedule"
-    url: /exercise-schedule/
-  - title: "Healthy Eating"
-    url: /healthy-eating/
-  - title: "Financial Coaching"
-    url: /financial-coaching/
+  - title: "Exercise Classes"
+    url: /exercise-classes/
+  - title: "Infrared Sauna"
+    url: /infrared-sauna/
+  - title: "Communication Coaching"
+    url: /communication-coaching/
+  - title: "Vision Improvment"
+    url: /vision-improvement/
+  - title: "Financial Peace"
+    url: /financial-peace/
   - title: "Contact"
     url: /contact/
