@@ -9,8 +9,8 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 
 <table>
   <colgroup>
-    <col span="1" style="width: 80%;">
-    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 70%;">
+    <col span="1" style="width: 30%;">
   </colgroup>
  
   <tbody>
