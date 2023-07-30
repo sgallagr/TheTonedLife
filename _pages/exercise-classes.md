@@ -37,18 +37,17 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <table style="width:100%">
   <tr>
     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/hUOhCt48zkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
-    <td><p>MWF     7:45-8:45 a.m.
-    Saturdays       9:30-8:30 a.m.
-    W Eve       6:30-7:30 p.m.
-    \n
-    Monthly Memberships
-    4+ classes per week -- $82/month
-    3 classes per week -- $67/month
-    2 classes per week -- $60/month
-    1 class per week -- $33/month
-    Single class without monthly membership -- $15
-    No contracts.
-    Pay at the beginning of the month via Zelle, check or cash</p></td>
+    <td><p>MWF     7:45-8:45 a.m.<br>
+    Saturdays       9:30-8:30 a.m.<br>
+    W Eve       6:30-7:30 p.m.<br>
+    Monthly Memberships<br>
+    4+ classes per week -- $82/month<br>
+    3 classes per week -- $67/month<br>
+    2 classes per week -- $60/month<br>
+    1 class per week -- $33/month<br>
+    Single class without monthly membership -- $15<br>
+    No contracts.<br>
+    Pay at the beginning of the month via Zelle, check or cash<br></p></td>
   </tr>
 </table>
 
