@@ -16,7 +16,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
       </video>
     </td>
     <td>
-      <p>MWF 7:45-8:45 a.m.<br>
+      <p width="100%">MWF 7:45-8:45 a.m.<br>
       Saturdays 9:30-8:30 a.m.<br>
       W Eve 6:30-7:30 p.m.<br><br>
       Monthly Memberships<br>
