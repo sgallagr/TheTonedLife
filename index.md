@@ -1,5 +1,6 @@
 ---
-title: "The Toned Life - Whole Health for Your Whole Life!"
+title: "The Toned Life - 
+\nWhole Health for Your Whole Life!"
 layout: splash
 header:
   overlay_color: "#0494cc"
@@ -8,11 +9,11 @@ feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
     title: "Certified Coach & Instructor"
     excerpt: "Stem Cell Activation
-    \nExercise Classes
-    \nInfrared Sauna and more
-    \nCoaching + Counseling
-    \nEyesight Improvement
-    \nFinancial Peace"
+    \n\nExercise Classes
+    \n\nInfrared Sauna and more
+    \n\nCoaching + Counseling
+    \n\nEyesight Improvement
+    \n\nFinancial Peace"
 #    url: "https://lifewave.com/cathleengallagher"
 #    btn_label: "Learn more"
 #    btn_class: "btn--primary"
