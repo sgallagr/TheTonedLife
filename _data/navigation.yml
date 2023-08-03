@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Stem Cells"
+    url: /stem-cells/
   - title: "Exercise Classes"
     url: /exercise-classes/
   - title: "Infrared Sauna"

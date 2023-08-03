@@ -4,5 +4,5 @@ layout: splash
 permalink: /infrared-sauna/
 header:
   overlay_color: "#0494cc"
-excerpt: "Sauna placeholder page"
+#excerpt: "Sauna placeholder page"
 ---
