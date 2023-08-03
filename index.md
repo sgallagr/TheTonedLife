@@ -7,8 +7,13 @@ header:
 feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
     title: "Certified Coach & Instructor"
-    excerpt: "Stem Cell Activation\nExercise Classes\nInfrared Sauna and more\nCoaching + Counseling\nEyesight Improvement\nFinancial Peace"
-    url: "https://lifewave.com/cathleengallagher"
+    excerpt: "Stem Cell Activation
+    \nExercise Classes
+    \nInfrared Sauna and more
+    \nCoaching + Counseling
+    \nEyesight Improvement
+    \nFinancial Peace"
+#    url: "https://lifewave.com/cathleengallagher"
 #    btn_label: "Learn more"
 #    btn_class: "btn--primary"
 # feature_row3:
