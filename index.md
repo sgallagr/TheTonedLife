@@ -1,6 +1,6 @@
 ---
 title: "The Toned Life - 
-\nWhole Health for Your Whole Life!"
+\n\nWhole Health for Your Whole Life!"
 layout: splash
 header:
   overlay_color: "#0494cc"
