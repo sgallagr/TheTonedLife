@@ -37,9 +37,10 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
   </tbody>
 </table>-->
 
-<b>MWF</b> 7:45-8:45 a.m.<br>
-<b>Saturdays</b> 9:30-8:30 a.m.<br>
-<b>W Eve</b> 6:30-7:30 p.m.<br><br>
+<b>Monday</b> 7:45-8:45 a.m.<br>
+<b>Wednesday</b> 10:45-11:45 a.m. / 6:30-7:30 p.m.<br>
+<b>Friday</b> 7:45-8:45 a.m.<br>
+<b>Saturday</b> 9:30-8:30 a.m.<br>
 <u>Monthly Memberships</u><br>
 <b>4+ classes per week</b> -- $82/month<br>
 <b>3 classes per week</b> -- $67/month<br>
