@@ -11,7 +11,7 @@ Build Wealth & Reduce Debt With Financial Peace Coaching
 
 Spend a little money to gain a lot of peace.
 
-<i>“Cathleen makes the concepts so easy to learn. Her coaching and guidance along the way is so invaluable. I simply can’t put a price on the peace I feel after having worked with Cathleen for just a few months. It’s worth every penny. It’s priceless. She’s priceless!!”</i> - Mary B.
+<i>“Cathleen makes the concepts so easy to learn. Her coaching and guidance along the way is so invaluable. I simply can’t put a price on the peace I feel after having worked with Cathleen for just a few months. It’s worth every penny. It’s priceless. She’s priceless!!”</i> <br>- Mary B.
 
 1st 90-min session - $175<br>
 Follow up sessions - $150<br>

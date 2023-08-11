@@ -12,5 +12,5 @@ We CAN age backwards! As we age, more and more of our stem cells become dormant.
 Stem cell injections and IV’s are extremely expensive and often times don’t work very well. With Lifewave Technology, you can regenerate your own stem cells for 
 about the price of a cup of coffee a day! Contact me for a free 15 minute phone or online consultation. 
 
-Or visist my website:
+Or visist my website:<br>
 https://lifewave.com/cathleengallagher
