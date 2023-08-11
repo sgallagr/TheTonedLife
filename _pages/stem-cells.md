@@ -13,4 +13,4 @@ Stem cell injections and IV’s are extremely expensive and often times don’t 
 about the price of a cup of coffee a day! Contact me for a free 15 minute phone or online consultation. 
 
 Or visist my website:<br>
-https://lifewave.com/cathleengallagher
+<a href="https://lifewave.com/cathleengallagher">https://lifewave.com/cathleengallagher</a>.
