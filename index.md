@@ -8,7 +8,7 @@ header:
 feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
     title: "Certified Coach & Instructor"
-    excerpt: "Stem Cell Activation
+    excerpt: "\n\nStem Cell Activation
     \n\nExercise Classes
     \n\nInfrared Sauna and more
     \n\nCoaching + Counseling
