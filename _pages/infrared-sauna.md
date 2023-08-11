@@ -7,6 +7,14 @@ header:
 #excerpt: "Sauna placeholder page"
 ---
 
+<video class="video" width="100%" poster="/assets/images/drberg.jpg" controls="true" autobuffer="true">
+  <source src="/assets/videos/sauna1.mp4" type="video/mp4">
+</video><br>
+
+<video class="video" width="100%" poster="/assets/images/sauna.png" controls="true" autobuffer="true">
+  <source src="/assets/videos/sauna.mp4" type="video/mp4">
+</video><br>
+
 Come enjoy all the benefits of infrared sauna! 
 
 Plenty of room for 1-2 people.

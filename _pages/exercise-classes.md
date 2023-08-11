@@ -50,7 +50,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 No contracts<br>
 Pay at the beginning of the month via Zelle, check or cash<br><br>
 
-<video class="video" width="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
+<video class="video" width="100%" poster="/assets/images/family_package1.png" controls="true" autobuffer="true">
   <source src="/assets/videos/essentrics.mp4" type="video/mp4">
 </video><br>
 
