@@ -37,13 +37,14 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
   </tbody>
 </table>-->
 
-<video class="video" width="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
-  <source src="/assets/videos/essentrics.mp4" type="video/mp4">
-</video>
-
 <b>MWF</b> 7:45-8:45 a.m.<br>
 <b>Saturdays</b> 9:30-8:30 a.m.<br>
 <b>W Eve</b> 6:30-7:30 p.m.<br><br>
+
+<video class="video" width="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
+  <source src="/assets/videos/essentrics.mp4" type="video/mp4">
+</video><br>
+
 <u>Monthly Memberships</u><br>
 <b>4+ classes per week</b> -- $82/month<br>
 <b>3 classes per week</b> -- $67/month<br>
@@ -51,7 +52,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <b>1 class per week</b> -- $33/month<br>
 <b>Single class without monthly membership</b> -- $15<br><br>
 No contracts<br><br>
-Pay at the beginning of the month via Zelle, check or cash
+Pay at the beginning of the month via Zelle, check or cash<br><br><br>
 
 Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
 
