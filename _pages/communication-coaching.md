@@ -25,13 +25,13 @@ header:
       <b>For Business Professionals</b><br>
       <i>“Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could.”</i><br> 
       - Bob K.<br><br>
-      CEO’s/VP’s Image Consulting<br>
-      Facilitator Training<br>
-      Goals Setting<br>
-      Pastors’ Sermons Coaching<br>
-      Public Speaker Coaching<br>
-      Vision Boards Workshops<br>
-      All Forms of Writing/Editing<br>
+      -- CEO’s/VP’s Image Consulting<br>
+      -- Facilitator Training<br>
+      -- Goals Setting<br>
+      -- Pastors’ Sermons Coaching<br>
+      -- Public Speaker Coaching<br>
+      -- Vision Boards Workshops<br>
+      -- All Forms of Writing/Editing<br>
     </td>
     <td>
       $240 per hour<br>
