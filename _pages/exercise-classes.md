@@ -41,7 +41,7 @@ excerpt: "Choose a membership that best fits your goals. The first class is **al
 <b>Wednesday</b> 9:45-10:45 a.m.<br>
 <b>Thursday</b> 6:30-7:30 p.m.<br>
 <b>Friday</b> 7:45-8:45 a.m.<br>
-<b>Saturday</b> 9:30-8:30 a.m.<br><br>
+<b>Saturday</b> 8:15-9:15 a.m.<br><br>
 <u>Monthly Memberships</u><br>
 <b>4+ classes per week</b> -- $82/month<br>
 <b>3 classes per week</b> -- $67/month<br>
