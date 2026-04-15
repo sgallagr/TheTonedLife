@@ -13,7 +13,8 @@ feature_row2:
     \n\nInfrared Sauna and more
     \n\nCoaching + Counseling
     \n\nEyesight Improvement
-    \n\nFinancial Peace"
+    \n\nFinancial Peace
+    \n\nDNA Tests and Coaching"
 #    url: "https://lifewave.com/cathleengallagher"
 #    btn_label: "Learn more"
 #    btn_class: "btn--primary"
