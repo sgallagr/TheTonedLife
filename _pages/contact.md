@@ -17,7 +17,7 @@ excerpt: "Private Home Studio in Blakeney Area, Charlotte, NC"
     <label for="email-address">Email*</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@example.com" required="true">
     <label for="phone">Phone Number</label>
-    <input type="phone" name="phone" id="phone" placeholder="(123) 456-7890">
+    <input type="phone" name="phone" id="phone" placeholder="(123) 456-7890" required="true">
     <label for="message">Message*</label>
     <textarea rows="5" name="message" id="message" placeholder="Your message" required="true"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
