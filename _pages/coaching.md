@@ -47,4 +47,4 @@ feature_row:
 
 **Not sure where to start?** [Contact Cathleen](/contact/) and she'll help you find the right fit.
 
-Also at the studio: [exercise classes](/exercise-classes/) (your first class is free) and the [infrared sauna](/infrared-sauna/).
+Cathleen's studio also offers [exercise classes](/exercise-classes/) and a private [infrared sauna](/infrared-sauna/) — your first class is always free.
