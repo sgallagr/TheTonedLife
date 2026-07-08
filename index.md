@@ -31,7 +31,7 @@ feature_row3:
     title: "Infrared Sauna"
     excerpt: "Private sessions for 1–2 people, from $30."
     url: "/infrared-sauna/"
-    btn_label: "Learn More"
+    btn_label: "Explore the Sauna"
     btn_class: "btn--primary"
   - image_path: /assets/images/tile_coaching.jpg
     alt: "Coaching and more"

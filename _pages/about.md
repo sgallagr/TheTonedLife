@@ -9,7 +9,7 @@ feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
     alt: "Cathleen, certified coach and Essentrics instructor"
     title: "Certified Coach & Instructor"
-    excerpt: "Cathleen believes whole health touches every part of life — how you move, how you see, how you communicate, and how you handle money. From her private home studio in the Blakeney area of Charlotte, NC (and online), she brings certified training across each of those areas to help you build a stronger, more peaceful life.
+    excerpt: "Cathleen believes whole health touches every part of life — how you move, how you see, how you communicate, and how you handle money. From her private home studio in the Blakeney area of Charlotte, NC (and online), she helps you build a stronger, more peaceful life.
     \n\n**Certifications & Training**
     \n\n- Level 2 Comprehensive Certification in Aging Backwards® and Essentrics®
     \n\n- Bates Method Certified Natural Vision Coach

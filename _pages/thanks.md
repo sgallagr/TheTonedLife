@@ -4,6 +4,7 @@ layout: single
 author_profile: false
 sitemap: false
 noindex: true
+search: false
 permalink: /thanks/
 header:
   overlay_color: "#03729c"
