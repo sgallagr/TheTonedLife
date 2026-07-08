@@ -23,7 +23,6 @@ Cathleen works from a private home studio in the Blakeney area of Charlotte, NC.
     <label for="message">Message*</label>
     <textarea rows="5" name="message" id="message" placeholder="Your message" required></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-    <input type="hidden" name="_next" value="https://thetonedlife.com/thanks/">
   </fieldset>
   <div class="g-recaptcha" data-sitekey="6LfpNmYkAAAAAFWvDvLuNBeZ6wJ_D8Jgk2Qbrk9P"></div>
   <br/>

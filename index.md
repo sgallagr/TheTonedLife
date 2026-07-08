@@ -1,6 +1,7 @@
 ---
-title: "Whole Health for Your Whole Life!"
+title: "The Toned Life"
 layout: splash
+tagline: "Whole Health for Your Whole Life!"
 excerpt: "Exercise classes, infrared sauna, and personal coaching with Cathleen Gallagher — in the Blakeney area of Charlotte, NC, and online."
 header:
   overlay_color: "#03729c"

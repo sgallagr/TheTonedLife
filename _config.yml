@@ -154,6 +154,7 @@ footer:
 # Scripts appended after the theme's default JS on every page
 after_footer_scripts:
   - /assets/js/video-facade.js
+  - /assets/js/contact-form.js
 
 # Reading Files
 include:
