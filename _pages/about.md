@@ -4,11 +4,11 @@ layout: splash
 permalink: /about/
 header:
   overlay_color: "#03729c"
-excerpt: "Cathleen Gallagher — certified coach and instructor in Charlotte, NC, helping you build whole health for your whole life."
+excerpt: "Cathleen — certified coach and instructor in Charlotte, NC, helping you build whole health for your whole life."
 feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
-    alt: "Cathleen Gallagher, certified coach and Essentrics instructor"
-    title: "Cathleen Gallagher"
+    alt: "Cathleen, certified coach and Essentrics instructor"
+    title: "Cathleen"
     excerpt: "Cathleen believes whole health touches every part of life — how you move, how you see, how you communicate, and how you handle money. From her private home studio in the Blakeney area of Charlotte, NC (and online), she brings certified training across each of those areas to help you build a stronger, more peaceful life.
     \n\n**Certifications & Training**
     \n\n- Level 2 Comprehensive Certification in Aging Backwards® and Essentrics®

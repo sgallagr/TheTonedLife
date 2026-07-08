@@ -4,7 +4,7 @@ layout: splash
 permalink: /stem-cells/
 header:
   overlay_color: "#03729c"
-excerpt: "LifeWave® stem cell activation patches with personal support from Cathleen Gallagher — free 15-minute phone or online consultation."
+excerpt: "LifeWave® stem cell activation patches with personal support from Cathleen — free 15-minute phone or online consultation."
 ---
 
 ## LifeWave® Stem Cell Activation

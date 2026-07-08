@@ -20,7 +20,7 @@ title                    : "The Toned Life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "The Toned Life"
-description              : "Essentrics exercise classes, infrared sauna, and personal wellness coaching with Cathleen Gallagher in the Blakeney area of Charlotte, NC — in person and online."
+description              : "Essentrics exercise classes, infrared sauna, and personal wellness coaching with Cathleen in the Blakeney area of Charlotte, NC — in person and online."
 url                      : "https://thetonedlife.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # intentionally unset
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cathleen Gallagher"
+  name             : "Cathleen"
   avatar           : "/assets/images/2018+pic+Cathleen+MSv5.jpg"
   bio              : "Certified Essentrics instructor"
   location         : "Charlotte, NC"

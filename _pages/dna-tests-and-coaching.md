@@ -4,7 +4,7 @@ layout: splash
 permalink: /dna-tests-and-coaching/
 header:
   overlay_color: "#03729c"
-excerpt: "DNA testing with personalized wellness coaching from Cathleen Gallagher — turn your results into an actionable plan."
+excerpt: "DNA testing with personalized wellness coaching from Cathleen — turn your results into an actionable plan."
 ---
 
 ## Discover What Your DNA Can Tell You

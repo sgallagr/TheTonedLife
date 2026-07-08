@@ -4,7 +4,7 @@ layout: splash
 permalink: /communication-coaching/
 header:
   overlay_color: "#03729c"
-excerpt: "Personal and professional communication coaching with Cathleen Gallagher — in person in Charlotte, NC, or online."
+excerpt: "Personal and professional communication coaching with Cathleen — in person in Charlotte, NC, or online."
 ---
 
 Communication coaching helps you say what you mean — to yourself and to others. Cathleen works with individuals on mindful communication, self-talk, and making peace with the past, and with business professionals on presence, speaking, and writing. Sessions are available in person or online.

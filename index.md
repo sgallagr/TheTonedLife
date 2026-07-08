@@ -1,15 +1,15 @@
 ---
 title: "The Toned Life"
 layout: splash
-excerpt: "Exercise classes, infrared sauna, and personal coaching with Cathleen Gallagher — in the Blakeney area of Charlotte, NC, and online."
+excerpt: "Exercise classes, infrared sauna, and personal coaching with Cathleen — in the Blakeney area of Charlotte, NC, and online."
 header:
   title: "Whole Health for Your Whole Life!"
   overlay_color: "#03729c"
 
 feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
-    alt: "Cathleen Gallagher, certified coach and Essentrics instructor"
-    title: "Meet Cathleen Gallagher — Certified Coach & Instructor"
+    alt: "Cathleen, certified coach and Essentrics instructor"
+    title: "Meet Cathleen — Certified Coach & Instructor"
     excerpt: "Whole-person wellness from a private home studio in the Blakeney area of Charlotte, NC — in person and online.
     \n\n[Stem Cell Activation](/stem-cells/)
     \n\n[Exercise Classes](/exercise-classes/)
@@ -25,9 +25,9 @@ feature_row2:
 
 ## What Is the Bates Method?
 
-{% include video-facade.html id="TDenAjG0ikw" poster="/assets/images/bates-interview-thumb.jpg" title="What Is the Bates Method? An Interview with Cathleen Gallagher" %}
+{% include video-facade.html id="TDenAjG0ikw" poster="/assets/images/bates-interview-thumb.jpg" title="What Is the Bates Method? An Interview with Cathleen" %}
 
-*Watch: "What Is the Bates Method?" — an interview with Cathleen Gallagher on natural [vision improvement](/vision-improvement/).*
+*Watch: "What Is the Bates Method?" — an interview with Cathleen on natural [vision improvement](/vision-improvement/).*
 
 {% include feature_row id="feature_row2" type="left" %}
 
