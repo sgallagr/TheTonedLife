@@ -1,5 +1,5 @@
 ---
-title: "Contact Me"
+title: "Contact Cathleen"
 layout: single
 author_profile: false
 permalink: /contact/
@@ -8,7 +8,7 @@ header:
 excerpt: "Private home studio in the Blakeney area of Charlotte, NC"
 ---
 
-Cathleen works from a private home studio in the Blakeney area of Charlotte, NC. Sessions and classes are available in person or online. Send a message below and she'll get back to you soon.
+Sessions and classes are available in person or online. Send a message below and Cathleen will get back to you soon.
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 

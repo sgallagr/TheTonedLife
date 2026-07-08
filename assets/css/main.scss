@@ -1,0 +1,49 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Equal-height feature-row cards: crop every card image to 16:9 so
+   tiles line up regardless of each photo's native aspect ratio. */
+.feature__item .archive__item-teaser img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* Align card buttons on a shared bottom baseline: stretch cards in a row
+   to equal height and push each button paragraph to the card's bottom.
+   Scoped to standard grid cards only (not the left/right/center variants). */
+@media (min-width: 37.5em) {
+  .feature__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+
+  .feature__item:not(.feature__item--left):not(.feature__item--right):not(.feature__item--center) {
+    float: none;
+    display: flex;
+
+    .archive__item {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .archive__item-body {
+      display: flex;
+      flex-direction: column;
+      flex: 1 1 auto;
+
+      > p:last-child {
+        margin-top: auto;
+        margin-bottom: 0;
+        padding-top: 0.75em;
+      }
+    }
+  }
+}

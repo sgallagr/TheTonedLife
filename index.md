@@ -5,21 +5,40 @@ excerpt: "Exercise classes, infrared sauna, and personal coaching with Cathleen 
 header:
   title: "Whole Health for Your Whole Life!"
   overlay_color: "#03729c"
+  actions:
+    - label: "Your First Class Is Free — Book It"
+      url: "/contact/"
 
 feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
     alt: "Cathleen, certified coach and Essentrics instructor"
     title: "Meet Cathleen — Certified Coach & Instructor"
-    excerpt: "Whole-person wellness from a private home studio in the Blakeney area of Charlotte, NC — in person and online.
-    \n\n[Stem Cell Activation](/stem-cells/)
-    \n\n[Exercise Classes](/exercise-classes/)
-    \n\n[Infrared Sauna](/infrared-sauna/)
-    \n\n[Communication Coaching](/communication-coaching/)
-    \n\n[Vision Improvement](/vision-improvement/)
-    \n\n[Financial Peace](/financial-peace/)
-    \n\n[DNA Tests and Coaching](/dna-tests-and-coaching/)"
+    excerpt: "Whole-person wellness from a private home studio — in person and online. Cathleen is certified in Essentrics®, the Bates Method, and Ramsey financial coaching."
     url: "/contact/"
-    btn_label: "Book a Free Consultation"
+    btn_label: "Get in Touch"
+    btn_class: "btn--primary"
+
+feature_row3:
+  - image_path: /assets/images/essentrics_poster.jpg
+    alt: "Essentrics exercise class"
+    title: "Exercise Classes"
+    excerpt: "Essentrics® mornings — Mon, Wed, Fri & Sat, in studio or online."
+    url: "/exercise-classes/"
+    btn_label: "See Schedule"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/sauna_poster.jpg
+    alt: "Infrared sauna"
+    title: "Infrared Sauna"
+    excerpt: "Private sessions for 1–2 people, from $30."
+    url: "/infrared-sauna/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/tile_coaching.jpg
+    alt: "Coaching and more"
+    title: "Coaching & More"
+    excerpt: "Communication, financial, and vision coaching — plus stem cell and DNA wellness."
+    url: "/coaching/"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 ---
 
@@ -31,6 +50,8 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include feature_row id="feature_row3" %}
+
 ## Free to Start
 
 - Your **first exercise class is always free**.
@@ -39,4 +60,3 @@ feature_row2:
 
 > "Cathleen makes the concepts so easy to learn. Her coaching and guidance along the way is so invaluable. … It's worth every penny."
 > <br>— Mary B., financial coaching client
-

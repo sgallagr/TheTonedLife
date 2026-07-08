@@ -1,6 +1,7 @@
 ---
-title: "DNA Tests and Coaching"
-layout: splash
+title: "DNA Testing & Coaching"
+layout: single
+author_profile: false
 permalink: /dna-tests-and-coaching/
 header:
   overlay_color: "#03729c"
@@ -11,4 +12,8 @@ excerpt: "DNA testing with personalized wellness coaching from Cathleen — turn
 
 Your DNA holds clues about how your body responds to nutrition, exercise, and lifestyle. Cathleen offers DNA testing paired with personal coaching, so your results don't just sit in a report — they become a practical, personalized wellness plan.
 
-Full details are coming soon. In the meantime, [contact Cathleen](/contact/) to learn more or get started.
+**Want to know more?**
+
+[Contact Cathleen](/contact/){: .btn .btn--primary}
+
+*Explore more of Cathleen's services: [Coaching & More](/coaching/)*

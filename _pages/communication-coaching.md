@@ -1,13 +1,14 @@
 ---
 title: "Communication Coaching"
-layout: splash
+layout: single
+author_profile: false
 permalink: /communication-coaching/
 header:
   overlay_color: "#03729c"
 excerpt: "Personal and professional communication coaching with Cathleen — in person in Charlotte, NC, or online."
 ---
 
-Communication coaching helps you say what you mean — to yourself and to others. Cathleen works with individuals on mindful communication, self-talk, and making peace with the past, and with business professionals on presence, speaking, and writing. Sessions are available in person or online.
+Communication coaching helps you say what you mean — to yourself and to others. Cathleen works with individuals on mindful communication, self-talk, and making peace with the past. She also coaches business professionals on presence, speaking, and writing.
 
 ## For Individuals
 
@@ -29,8 +30,12 @@ Communication coaching helps you say what you mean — to yourself and to others
 - Sermon Coaching for Pastors
 - Public Speaker Coaching
 - Vision Board Workshops
-- All Forms of Writing/Editing
+- Writing and Editing (all forms)
 
-**$240 per hour** — [contact Cathleen](/contact/) for corporate packages or individual discounts.
+**$240 per hour** — ask about corporate packages and individual discounts.
+
+[Contact Cathleen](/contact/){: .btn .btn--primary}
 
 *Coaching is not psychotherapy or counseling, and is not a substitute for treatment by a licensed mental-health professional.*
+
+*Explore more of Cathleen's services: [Coaching & More](/coaching/)*

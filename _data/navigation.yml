@@ -1,19 +1,11 @@
 # main links
 main:
-  - title: "Stem Cells"
-    url: /stem-cells/
   - title: "Exercise Classes"
     url: /exercise-classes/
   - title: "Infrared Sauna"
     url: /infrared-sauna/
-  - title: "Communication Coaching"
-    url: /communication-coaching/
-  - title: "Vision Improvement"
-    url: /vision-improvement/
-  - title: "Financial Peace"
-    url: /financial-peace/
-  - title: "DNA Tests and Coaching"
-    url: /dna-tests-and-coaching/
+  - title: "Coaching & More"
+    url: /coaching/
   - title: "About"
     url: /about/
   - title: "Contact"
