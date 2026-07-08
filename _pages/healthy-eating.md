@@ -1,5 +1,6 @@
 ---
 title: "Healthy Eating Coach"
+published: false
 layout: splash
 permalink: /healthy-eating/
 header:

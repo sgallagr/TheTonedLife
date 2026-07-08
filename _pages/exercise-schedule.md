@@ -1,5 +1,6 @@
 ---
 title: "Class Schedule"
+published: false
 layout: single
 author_profile: false
 permalink: /exercise-schedule/

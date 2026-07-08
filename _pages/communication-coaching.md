@@ -3,39 +3,34 @@ title: "Communication Coaching"
 layout: splash
 permalink: /communication-coaching/
 header:
-  overlay_color: "#0494cc"
-#excerpt: ""
+  overlay_color: "#03729c"
+excerpt: "Personal and professional communication coaching with Cathleen Gallagher — in person in Charlotte, NC, or online."
 ---
 
-<table>
-  <tr>
-    <td width="75%">
-      <b>For Individuals</b><br>
-      <i>“I progressed more in 2 coaching sessions with Cathleen, than I did in 2 decades of counseling with my therapists. Cathleen systematically encouraged me to go farther than I ever could’ve imagined. Her knowledge on how the mind works, psychology, and communication is mind-blowing. Her approach and coaching on active forgiveness, self-talk, mindful communication, making peace with your past, etc have so greatly impacted my entire life in amazing ways. Do yourself a big favor and move forward with Cathleen as your coach instead of sitting still sharing the same old negative stories with your therapist.”</i><br> 
-      - Jane G.<br>
-    </td>
-    <td>
-      $120 for 60 minute session<br>
-      $195 for 90 minute session<br>
-      Ask about discounts for packages of 5 or more sessions<br>
-    </td>
-  </tr>
-  <tr>
-    <td width="75%">
-      <b>For Business Professionals</b><br>
-      <i>“Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could.”</i><br> 
-      - Bob K.<br><br>
-      -- CEO’s/VP’s Image Consulting<br>
-      -- Facilitator Training<br>
-      -- Goals Setting<br>
-      -- Pastors’ Sermons Coaching<br>
-      -- Public Speaker Coaching<br>
-      -- Vision Boards Workshops<br>
-      -- All Forms of Writing/Editing<br>
-    </td>
-    <td>
-      $240 per hour<br>
-      Call for corporate packages or individual discounts<br>
-    </td>
-  </tr>
-</table>
+Communication coaching helps you say what you mean — to yourself and to others. Cathleen works with individuals on mindful communication, self-talk, and making peace with the past, and with business professionals on presence, speaking, and writing. Sessions are available in person or online.
+
+## For Individuals
+
+> "… Cathleen systematically encouraged me to go farther than I ever could've imagined. Her knowledge on how the mind works, psychology, and communication is mind-blowing. Her approach and coaching on active forgiveness, self-talk, mindful communication, making peace with your past, etc. have so greatly impacted my entire life in amazing ways. …"
+> <br>— Jane G.
+
+- **$120** for a 60-minute session
+- **$195** for a 90-minute session
+- Ask about discounts for packages of 5 or more sessions
+
+## For Business Professionals
+
+> "Cathleen is highly organized, professional and knows communication. She helped my professional and personal image more than any book or seminar ever could."
+> <br>— Bob K.
+
+- CEO/VP Image Consulting
+- Facilitator Training
+- Goal Setting
+- Sermon Coaching for Pastors
+- Public Speaker Coaching
+- Vision Board Workshops
+- All Forms of Writing/Editing
+
+**$240 per hour** — [contact Cathleen](/contact/) for corporate packages or individual discounts.
+
+*Coaching is not psychotherapy or counseling, and is not a substitute for treatment by a licensed mental-health professional.*

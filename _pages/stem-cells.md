@@ -1,19 +1,22 @@
 ---
-title: "Stem Cells"
+title: "Stem Cell Activation"
 layout: splash
 permalink: /stem-cells/
 header:
-  overlay_color: "#0494cc"
-#excerpt: ""
+  overlay_color: "#03729c"
+excerpt: "LifeWave® stem cell activation patches with personal support from Cathleen Gallagher — free 15-minute phone or online consultation."
 ---
 
-<video class="video" width="100%" poster="/assets/images/lifewave_thumbnail.jpg" controls="true" autobuffer="true">
-  <source src="/assets/videos/lifewave.mp4" type="video/mp4">
-</video><br>
-Visit my website:<br>
-<a href="https://lifewave.com/cathleengallagher">https://lifewave.com/cathleengallagher</a>
+## LifeWave® Stem Cell Activation
 
-We CAN age backwards! As we age, more and more of our stem cells become dormant. By the age of 30, activation has dropped by over 25%. And by age 65, nearly all of our stem cells have gone to sleep and become inactive. This is why we see and feel the signs of aging. But we can activate and regenerate our stem cells with Lifewave® Stem Cell Activation Technology. We truly can age backwards!
+{% include video-facade.html id="IzjW4LD7WOU" poster="/assets/images/lifewave_thumbnail.jpg" title="Meet LifeWave X39" %}
 
-Stem cell injections and IV’s are extremely expensive and often times don’t work very well. With Lifewave® Technology, you can regenerate your own stem cells for 
-about the price of a cup of coffee a day! Contact me for a free 15 minute phone or online consultation.
+As we age, more and more of our stem cells become dormant — by age 30, activation has dropped by over 25%, and by age 65 the vast majority of our stem cells have become inactive. This is one reason we see and feel the signs of aging. LifeWave® patches are designed to support your body's own stem cell activity — a simple daily patch, for about the price of a cup of coffee a day.
+
+Stem cell injections and IVs are extremely expensive. LifeWave® offers a far more affordable way to support your body from within.
+
+Learn more or order through Cathleen's LifeWave® storefront: [lifewave.com/cathleengallagher](https://lifewave.com/cathleengallagher)
+
+**Curious whether it's right for you?** [Contact Cathleen](/contact/) for a free 15-minute phone or online consultation.
+
+*These statements have not been evaluated by the Food and Drug Administration. LifeWave® products are not intended to diagnose, treat, cure, or prevent any disease. Individual results vary.*

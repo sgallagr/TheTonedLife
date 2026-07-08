@@ -1,5 +1,6 @@
 ---
 title: "Exercise Memberships"
+published: false
 layout: splash
 permalink: /exercise-memberships/
 header:

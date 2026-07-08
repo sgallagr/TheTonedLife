@@ -3,64 +3,51 @@ title: "Exercise Classes"
 layout: splash
 permalink: /exercise-classes/
 header:
-  overlay_color: "#0494cc"
-excerpt: "Choose a membership that best fits your goals. The first class is **always** free"
+  overlay_color: "#03729c"
+excerpt: "Essentrics® classes in the Blakeney area of Charlotte, NC — in-studio or online. The first class is **always** free."
 ---
 
-<!--<table>
-  <colgroup>
-    <col span="1" style="width: 70%;">
-    <col span="1" style="width: 30%;">
-  </colgroup>
- 
-  <tbody>
-  <tr>
-    <td>
-      <video class="video" width="100%" poster="/assets/images/family_package.png" controls="true" autobuffer="true">
-        <source src="/assets/videos/essentrics.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <b>MWF</b> 7:45-8:45 a.m.<br>
-      <b>Saturdays</b> 9:30-8:30 a.m.<br>
-      <b>W Eve</b> 6:30-7:30 p.m.<br><br>
-      <u>Monthly Memberships</u><br>
-      <b>4+ classes per week</b> -- $82/month<br>
-      <b>3 classes per week</b> -- $67/month<br>
-      <b>2 classes per week</b> -- $60/month<br>
-      <b>1 class per week</b> -- $33/month<br>
-      <b>Single class without monthly membership</b> -- $15<br><br>
-      No contracts<br><br>
-      Pay at the beginning of the month via Zelle, check or cash<br>
-    </td>
-  </tr>
-  </tbody>
-</table>-->
+## Class Schedule
 
-<b>Monday</b> 7:45-8:45 a.m.<br>
-<b>Wednesday</b> 9:45-10:45 a.m.<br>
-<b>Thursday</b> 6:30-7:30 p.m.<br>
-<b>Friday</b> 7:45-8:45 a.m.<br>
-<b>Saturday</b> 8:15-9:15 a.m.<br><br>
-<u>Monthly Memberships</u><br>
-<b>4+ classes per week</b> -- $82/month<br>
-<b>3 classes per week</b> -- $67/month<br>
-<b>2 classes per week</b> -- $60/month<br>
-<b>1 class per week</b> -- $33/month<br>
-<b>Single class without monthly membership</b> -- $15<br><br>
-No contracts<br>
-Pay at the beginning of the month via Zelle, check or cash<br><br>
+- **Monday** 8:30–9:30 a.m.
+- **Wednesday** 8:30–9:30 a.m.
+- **Friday** 8:30–9:30 a.m.
+- **Saturday** 9:00–10:00 a.m.
+- **Evening classes** available upon request
 
-<video class="video" width="100%" poster="/assets/images/family_package1.png" controls="true" autobuffer="true">
-  <source src="/assets/videos/essentrics.mp4" type="video/mp4">
-</video><br>
+Classes are held at Cathleen's private home studio in the Blakeney area of Charlotte, NC — or join online from anywhere.
 
-Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3-5 times a week and watch your body transform in just a few classes!
+Semi-private and private classes are also available upon request — [contact Cathleen](/contact/) for pricing.
+
+## Monthly Memberships
+
+- **4+ classes per week** — $82/month
+- **3 classes per week** — $75/month
+- **2 classes per week** — $62/month
+- **1 class per week** — $40/month
+- **Single class without monthly membership** — $15
+
+No contracts. Pay at the beginning of the month via Zelle, check or cash.
+
+**Your first class is always free** — [contact Cathleen](/contact/) to reserve your spot.
+
+## About Essentrics® and Aging Backwards®
+
+{% include video-facade.html id="hUOhCt48zkU" poster="/assets/images/essentrics_poster.jpg" title="Essentrics Workout: Stretching and Strengthening Benefits" %}
+
+Tone all 620+ muscles in your body in about one hour in a relaxed, fun and safe way! Attend in-studio or online 3–5 times a week and watch your body transform in just a few classes!
 
 Through Essentrics® and Aging Backwards®, you can attain the shape, strength and balance of ballet dancers by incorporating simple yet powerful dynamic stretching moves and elements of ballet, Tai Chi and Pilates, brain/body balancing, posture and range of motion improvement, and much more. Come experience a relaxed and toned body.
 
-Essentrics® and Aging Backwards® are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19-90+, from couch potato to top athletes and everyone in between can benefit greatly from Essentrics® and Aging Backwards®.
+Essentrics® and Aging Backwards® are also therapeutic programs to help recover from injuries or illnesses. Everyone, ages 19–90+, from couch potato to top athletes and everyone in between can benefit greatly from Essentrics® and Aging Backwards®.
 
-No equipment, no jumping, no sit-ups, no push-ups, no pain. Class is done in bare-feet. Mats are provided for floor work. Purified water is provided. Studio is located on the second floor. Must be able to go up and down stairs. Ballet barre is provided for any who need a bit of extra balance support when first beginning.
+Cathleen holds the **Level 2 Comprehensive Certification in Aging Backwards® and Essentrics®**.
 
-<i>Level 2 Comprehensive Certification in Aging Backwards® and Essentrics®</i>
+## Good to Know
+
+- No equipment, no jumping, no sit-ups, no push-ups, no pain.
+- Class is done in bare feet. Mats are provided for floor work. Purified water is provided.
+- The studio is located on the second floor — you must be able to go up and down stairs.
+- A ballet barre is available for anyone who needs extra balance support when first beginning.
+
+*Please consult your physician before beginning any new exercise program, especially if you are pregnant, have a heart condition, or are recovering from an injury or illness. A signed waiver is required at your first visit.*

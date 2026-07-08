@@ -1,46 +1,41 @@
 ---
-title: "The Toned Life - 
-\n\nWhole Health for Your Whole Life!"
+title: "Whole Health for Your Whole Life!"
 layout: splash
+excerpt: "Exercise classes, infrared sauna, and personal coaching with Cathleen Gallagher — in the Blakeney area of Charlotte, NC, and online."
 header:
-  overlay_color: "#0494cc"
+  overlay_color: "#03729c"
 
 feature_row2:
   - image_path: /assets/images/2018+pic+Cathleen+MSv5.jpg
-    title: "Certified Coach & Instructor"
-    excerpt: "\n\nStem Cell Activation
-    \n\nExercise Classes
-    \n\nInfrared Sauna and more
-    \n\nCoaching + Counseling
-    \n\nEyesight Improvement
-    \n\nFinancial Peace
-    \n\nDNA Tests and Coaching"
-#    url: "https://lifewave.com/cathleengallagher"
-#    btn_label: "Learn more"
-#    btn_class: "btn--primary"
-# feature_row3:
-#  - image_path: /assets/images/woman+on+beach.jpg
-#    title: "Experience the freedom of Finanical Peace with coaching"
-#    excerpt: "**Your first 15-minute consultation is FREE**"
+    alt: "Cathleen Gallagher, certified coach and Essentrics instructor"
+    title: "Meet Cathleen Gallagher — Certified Coach & Instructor"
+    excerpt: "Whole-person wellness from a private home studio in the Blakeney area of Charlotte, NC — in person and online.
+    \n\n[Stem Cell Activation](/stem-cells/)
+    \n\n[Exercise Classes](/exercise-classes/)
+    \n\n[Infrared Sauna](/infrared-sauna/)
+    \n\n[Communication Coaching](/communication-coaching/)
+    \n\n[Vision Improvement](/vision-improvement/)
+    \n\n[Financial Peace](/financial-peace/)
+    \n\n[DNA Tests and Coaching](/dna-tests-and-coaching/)"
+    url: "/contact/"
+    btn_label: "Book a Free Consultation"
+    btn_class: "btn--primary"
 ---
+
+## What Is the Bates Method?
+
+{% include video-facade.html id="TDenAjG0ikw" poster="/assets/images/bates-interview-thumb.jpg" title="What Is the Bates Method? An Interview with Cathleen Gallagher" %}
+
+*Watch: "What Is the Bates Method?" — an interview with Cathleen Gallagher on natural [vision improvement](/vision-improvement/).*
 
 {% include feature_row id="feature_row2" type="left" %}
 
-<div class="ttl-video-facade" data-video="TDenAjG0ikw" role="button" tabindex="0" aria-label="Play video: What Is the Bates Method? An Interview with Cathleen Gallagher" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1em 0;cursor:pointer;background:#000;border-radius:4px;">
-  <img src="/assets/images/woman+on+beach.jpg" alt="What Is the Bates Method? An Interview with Cathleen Gallagher" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;">
-  <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:68px;height:48px;background:rgba(0,0,0,.65);border-radius:12px;"></div>
-  <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);margin-left:4px;width:0;height:0;border-style:solid;border-width:11px 0 11px 19px;border-color:transparent transparent transparent #fff;"></div>
-</div>
+## Free to Start
 
-<script>
-document.querySelectorAll('.ttl-video-facade').forEach(function(el){
-  function play(){
-    var id = el.getAttribute('data-video');
-    el.innerHTML = '<iframe src="https://www.youtube.com/embed/' + id + '?autoplay=1" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>';
-  }
-  el.addEventListener('click', play);
-  el.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); play(); } });
-});
-</script>
+- Your **first exercise class is always free**.
+- **Free 15-minute consultation** (phone or online) for stem cell activation.
+- [Contact Cathleen](/contact/) to get started.
 
-<!-- {% include feature_row id="feature_row3" type="right" %} -->
+> "Cathleen makes the concepts so easy to learn. Her coaching and guidance along the way is so invaluable. … It's worth every penny."
+> <br>— Mary B., financial coaching client
+

@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HealthAndBeautyBusiness",
+  "name": "The Toned Life",
+  "url": "{{ site.url }}",
+  "image": "{{ site.og_image | absolute_url }}",
+  "description": {{ site.description | jsonify }},
+  "areaServed": {
+    "@type": "City",
+    "name": "Charlotte",
+    "containedInPlace": {
+      "@type": "State",
+      "name": "North Carolina"
+    }
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Cathleen Gallagher",
+    "jobTitle": "Certified Coach & Instructor"
+  },
+  "knowsAbout": [
+    "Essentrics exercise classes",
+    "Infrared sauna",
+    "Communication coaching",
+    "Natural vision improvement",
+    "Financial coaching",
+    "DNA testing and coaching"
+  ]
+}
+</script>

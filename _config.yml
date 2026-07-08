@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "The Toned Life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-#name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "The Toned Life"
+description              : "Essentrics exercise classes, infrared sauna, and personal wellness coaching with Cathleen Gallagher in the Blakeney area of Charlotte, NC — in person and online."
+url                      : "https://thetonedlife.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # intentionally unset
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -59,9 +59,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : true # index standalone pages (this site has no posts)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -83,12 +85,12 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/2018+pic+Cathleen+MSv5.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : "The Toned Life"
   links: # An array of links to social media profiles
 
 # Analytics
@@ -102,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "Cathleen Gallagher"
-  avatar           : "/assets/images/2018+pic+Cathleen+MSv4.jpg"
+  avatar           : "/assets/images/2018+pic+Cathleen+MSv5.jpg"
   bio              : "Certified Essentrics instructor"
-  location         : #"Somewhere"
+  location         : "Charlotte, NC"
   email            :
   #links:
    # - label: "Email"
@@ -149,6 +151,10 @@ footer:
       # url:
 
 
+# Scripts appended after the theme's default JS on every page
+after_footer_scripts:
+  - /assets/js/video-facade.js
+
 # Reading Files
 include:
   - .htaccess
@@ -156,6 +162,16 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  # self-hosted videos replaced by YouTube embeds — kept in the repo, not served
+  - assets/videos
+  # images used only by archived (unpublished) pages — kept in the repo, not served
+  - assets/images/Certification+FCMT.jpeg
+  - assets/images/tone+.jpg
+  - assets/images/tone.jpg
+  - assets/images/single.jpg
+  - assets/images/family_package.png
+  - assets/images/group_of_food.jpg
+  - assets/images/salad.jpg
   - vendor
   - .asset-cache
   - .bundle
@@ -215,14 +231,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -230,7 +243,6 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

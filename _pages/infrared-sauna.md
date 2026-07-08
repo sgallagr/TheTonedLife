@@ -3,23 +3,26 @@ title: "Infrared Sauna"
 layout: splash
 permalink: /infrared-sauna/
 header:
-  overlay_color: "#0494cc"
-#excerpt: "Sauna placeholder page"
+  overlay_color: "#03729c"
+excerpt: "Private infrared sauna sessions in the Blakeney area of Charlotte, NC — room for 1–2 people."
 ---
 
-Come enjoy all the benefits of infrared sauna! 
+Come enjoy all the benefits of infrared sauna in a private setting in the Blakeney area of Charlotte, NC!
 
-Plenty of room for 1-2 people.
+Plenty of room for 1–2 people.
 
-<u>Pricing</u><br>
-<b>30 minutes</b> -- $30<br>
-<b>40 minutes</b> -- $37<br>
-Bring a friend for only $10 more per session.<br>
+## Pricing
 
-<video class="video" width="100%" poster="/assets/images/drberg.jpg" controls="true" autobuffer="true">
-  <source src="/assets/videos/sauna1.mp4" type="video/mp4">
-</video><br>
+- **30 minutes** — $30
+- **40 minutes** — $37
+- Bring a friend for only $10 more per session.
 
-<video class="video" width="100%" poster="/assets/images/sauna.png" controls="true" autobuffer="true">
-  <source src="/assets/videos/sauna.mp4" type="video/mp4">
-</video><br>
+**Ready to relax?** [Contact Cathleen](/contact/) to schedule your session.
+
+## Learn More
+
+{% include video-facade.html id="serJmA0YFD0" poster="/assets/images/drberg.jpg" title="What Happens If You Use a Sauna for 14 Days — Dr. Eric Berg" %}
+
+{% include video-facade.html id="xpqrpxFFbT0" poster="/assets/images/sauna_poster.jpg" title="Clearlight 2-Person Premier Far Infrared Sauna" %}
+
+*Infrared sauna is not suitable for everyone. Please consult your physician before use if you are pregnant, have a cardiovascular condition, or take medications that affect heat tolerance.*

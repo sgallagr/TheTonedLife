@@ -3,18 +3,23 @@ title: "Financial Peace"
 layout: splash
 permalink: /financial-peace/
 header:
-  overlay_color: "#0494cc"
-#excerpt: ""
+  overlay_color: "#03729c"
+excerpt: "Financial coaching with a Ramsey-trained Master Financial Coach — reduce debt and build wealth, in person in Charlotte, NC, or online."
 ---
 
-Build Wealth & Reduce Debt With Financial Peace Coaching
+## Build Wealth & Reduce Debt With Financial Peace Coaching
 
 Spend a little money to gain a lot of peace.
 
-<i>“Cathleen makes the concepts so easy to learn. Her coaching and guidance along the way is so invaluable. I simply can’t put a price on the peace I feel after having worked with Cathleen for just a few months. It’s worth every penny. It’s priceless. She’s priceless!!”</i> <br>- Mary B.
+Trained by Dave Ramsey of Ramsey Solutions and certified as a Master Financial Coach, Cathleen will guide you through the Baby Steps to financial peace. Learn new habits to reduce your debt and build wealth.
 
-1st 90-min session - $175<br>
-Follow up sessions - $150<br>
-If your debt is so deep that we together cannot find $175 in your budget, your charge will only be $75 for your first session.
+> "Cathleen makes the concepts so easy to learn. Her coaching and guidance along the way is so invaluable. I simply can't put a price on the peace I feel after having worked with Cathleen for just a few months. It's worth every penny. It's priceless. She's priceless!!"
+> <br>— Mary B.
 
-Trained by Dave Ramsey of Ramsey Solutions and Certified as a Master Coach, Cathleen will guide you through the Baby Steps to financial peace. Learn new habits to reduce your debt and build wealth.
+## Sessions & Pricing
+
+- **First session (90 minutes)** — $175
+- **Follow-up sessions** — $150
+- If $175 truly won't fit your budget right now, your first session is just **$75** — deep debt shouldn't keep you from getting help.
+
+**Ready for financial peace?** [Contact Cathleen](/contact/) to schedule your first session.
