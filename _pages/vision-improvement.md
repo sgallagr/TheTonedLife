@@ -17,6 +17,10 @@ Come experience relaxation for your eyes, as well as your mind and even your ent
 > "Cathleen is a master at guided visualizations – somehow she takes me on the most amazingly scenic vacations while my eyes are closed and resting during 'palming', and she's kind enough to record these on my phone so I can listen to them every day. I get a vacation for my mind and relaxation for my eyes and body. And when I open my eyes, it's simply amazing how much better my vision is. This is the most fun and relaxing way to improve my eyesight! And she is such a sweet and helpful soul. She's like a best friend who helps me see better."
 > <br>— JoAnn C.
 
+## Watch: Improve Your Eyesight Naturally
+
+{% include video-facade.html id="010ED9sFdrw" poster="/assets/images/eyesight-interview-thumb.jpg" title="How to Improve Your Eyesight Naturally for Free — An Interview with Cathleen" %}
+
 ## Watch: What Is the Bates Method?
 
 {% include video-facade.html id="TDenAjG0ikw" poster="/assets/images/bates-interview-split.jpg" title="What Is the Bates Method? An Interview with Cathleen" %}

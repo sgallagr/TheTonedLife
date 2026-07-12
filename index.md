@@ -42,12 +42,6 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-## What Is the Bates Method?
-
-{% include video-facade.html id="TDenAjG0ikw" poster="/assets/images/bates-interview-thumb.jpg" title="What Is the Bates Method? An Interview with Cathleen" %}
-
-*Watch: "What Is the Bates Method?" — an interview with Cathleen on natural [vision improvement](/vision-improvement/).*
-
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" %}
