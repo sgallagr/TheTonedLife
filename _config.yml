@@ -85,7 +85,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/2018+pic+Cathleen+MSv5.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/og-card.png" # Open Graph/Twitter default site image (1200x630 branded card)
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -165,6 +165,10 @@ exclude:
   - "*.sublime-workspace"
   # self-hosted videos replaced by YouTube embeds — kept in the repo, not served
   - assets/videos
+  # retired images no longer referenced — kept in the repo, not served
+  - assets/images/bates-interview-thumb.jpg
+  - assets/images/drberg.jpg
+  - assets/images/essentrics_poster.jpg
   # images used only by archived (unpublished) pages — kept in the repo, not served
   - assets/images/Certification+FCMT.jpeg
   - assets/images/tone+.jpg

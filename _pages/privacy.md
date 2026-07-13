@@ -30,3 +30,7 @@ To request a copy or deletion of information you've submitted through the contac
 ## Questions
 
 Any questions about this policy can be sent through the [contact page](/contact/).
+
+---
+
+*Photo credit: stretching photo by [KMo Foto](https://www.flickr.com/photos/28032587@N06/11278364026) (CC BY 2.0).*

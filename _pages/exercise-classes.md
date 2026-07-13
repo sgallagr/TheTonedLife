@@ -36,7 +36,7 @@ No contracts. Pay at the beginning of the month via Zelle, check, or cash.
 
 ## About Essentrics® and Aging Backwards®
 
-{% include video-facade.html id="hUOhCt48zkU" poster="/assets/images/essentrics_poster.jpg" title="Essentrics Workout: Stretching and Strengthening Benefits" %}
+{% include video-facade.html id="hUOhCt48zkU" poster="/assets/images/exercise-card.jpg" title="Essentrics Workout: Stretching and Strengthening Benefits" %}
 
 Tone all 620+ muscles in your body in about an hour — a relaxed, fun, and safe workout. Attend in studio or online 3–5 times a week and watch your body transform in just a few classes!
 

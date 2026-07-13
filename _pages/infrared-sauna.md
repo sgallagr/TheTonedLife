@@ -20,9 +20,11 @@ Gentle infrared heat warms you from within — a quiet, soothing way to relax de
 
 [Schedule a Sauna Session](/contact/){: .btn .btn--primary}
 
-## Learn More
+## Watch: What Happens If You Use a Sauna for 14 Days
 
-{% include video-facade.html id="serJmA0YFD0" poster="/assets/images/drberg.jpg" title="What Happens If You Use a Sauna for 14 Days — Dr. Eric Berg" %}
+{% include video-facade.html id="serJmA0YFD0" poster="/assets/images/sauna-video-poster.jpg" title="What Happens If You Use a Sauna for 14 Days — Dr. Eric Berg" %}
+
+## Watch: A Tour of the Sauna You'll Be Using
 
 {% include video-facade.html id="xpqrpxFFbT0" poster="/assets/images/sauna_poster.jpg" title="Clearlight 2-Person Premier Far Infrared Sauna" %}
 

@@ -19,32 +19,26 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/essentrics_poster.jpg
-    alt: "Essentrics exercise class"
+  - image_path: /assets/images/exercise-card.jpg
+    alt: "Woman stretching on a warm wooden studio floor"
     title: "Exercise Classes"
     excerpt: "Essentrics® mornings — Mon, Wed, Fri & Sat, in studio or online."
     url: "/exercise-classes/"
-    btn_label: "See Schedule"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/sauna_poster.jpg
-    alt: "Infrared sauna"
+  - image_path: /assets/images/sauna-card.jpg
+    alt: "Cedar infrared sauna with green plants"
     title: "Infrared Sauna"
     excerpt: "Private sessions for 1–2 people, from $30."
     url: "/infrared-sauna/"
-    btn_label: "Explore the Sauna"
-    btn_class: "btn--primary"
   - image_path: /assets/images/tile_coaching.jpg
-    alt: "Coaching and more"
+    alt: "Sunlit path through the woods"
     title: "Coaching & More"
     excerpt: "Communication, financial, and vision coaching — plus stem cell and DNA wellness."
     url: "/coaching/"
-    btn_label: "Explore"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row3" cardlink=true %}
 
 ## Free to Start
 
