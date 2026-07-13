@@ -24,6 +24,7 @@
 /* Whole-card links (cardlink=true on the feature_row include): the entire
    card is one anchor. Reset link styling, add clear clickable affordance. */
 a.card-link {
+  display: block; /* anchors are inline by default; an inline box renders its border as stray fragments around block children */
   color: inherit;
   text-decoration: none;
   border: 1px solid #e3e6e8;
