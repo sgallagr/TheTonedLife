@@ -65,6 +65,14 @@ a.card-link {
   }
 }
 
+/* Mobile: the theme's 2em stacking margin reads oversized between bordered
+   card links — tighten the stack on small screens. */
+@media (max-width: 37.49em) {
+  .feature__item {
+    margin-bottom: 1em;
+  }
+}
+
 /* Align card buttons on a shared bottom baseline: stretch cards in a row
    to equal height and push each button paragraph to the card's bottom.
    Scoped to standard grid cards only (not the left/right/center variants). */
